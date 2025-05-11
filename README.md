@@ -13,3 +13,7 @@ simple web service that generates a professional-looking invoice in **PDF**
 * Integrate to your web app with proper inputs
 
 ---
+
+## 🤠 Demo
+
+![Demo](demo.gif)
